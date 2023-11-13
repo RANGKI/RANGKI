@@ -18,7 +18,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=RANGKI&theme=dark&no-frame=false&no-bg=true&margin-w=4)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=AhdanFirdaus&limit=5&theme=algolia&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=RANGKI&limit=5&theme=algolia&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=AhdanFirdaus&icon=6&color=1)](https://visitcount.itsvg.in)
