@@ -1,4 +1,5 @@
-<a href="https://idk"><img src="https://giffiles.alphacoders.com/162/162682.gif" width="100%" height="20%"/></a>
+<a href="https://idk"><img src="https://giffiles.alphacoders.com/162/162682.gif" width="100%" style="height: 400px; object-fit: cover;" />
+</a>
 <p align="center">
   &#8287;&#8287;&#8287;&#8287;&#8287;
   &#8287;&#8287;&#8287;&#8287;&#8287;
