@@ -18,40 +18,12 @@ Hi 👋, I am **Rangki** A self learner student who entushiast at low level thin
 <details>
   <summary>🧑 More about me</summary>
 
+  <br>
 
-```c
-#include <stdio.h>
-
-struct Identity {
-    const char *name;
-    const char *alias;
-    const char *school;
-    const char *hobby;
-    const char *favorite_game;
-    unsigned char age;
-};
-
-int main() {
-    struct Identity rangki = {
-        .name = "Rangki",
-        .alias = "0xRangki1",
-        .school = "SMKN7 SEMARANG",
-        .hobby = "Playing Games",
-        .favorite_game = "Deltarune",
-        .age = 0x11
-    };
-
-    printf("👋 Hi, I am %s (%s)\n", rangki.name, rangki.alias);
-    printf("🏫 School: %s\n", rangki.school);
-    printf("💥 Hobby: %s\n", rangki.hobby);
-    printf("🎮 Favorite Game: %s\n", rangki.favorite_game);
-    printf("🎂 Age: %d\n", rangki.age);
-
-    return 0;
-}
-```
+  <img src="https://shiphxojkfxomfmvqite.supabase.co/storage/v1/object/public/gabut//ray-so-export.png" alt="whoami.c output" />
 
 </details>
+
   
 </p>
   
@@ -79,13 +51,7 @@ int main() {
 <p align="left">
   <a href="https://github.com/RANGKI?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </p>
-<p align="right">
-  <a href="https://github.com/RANGKI?tab=repositories">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&host=formatted-dynamic-badges.herokuapp.com&formatter=metric&style=for-the-badge&color=55960c&labelColor=%23488207&label=stars&query=%24.stars&url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2FRANGKI"/></a>
-  <a href="https://github.com/RANGKI?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/RANGKI?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 
-</p>
   <div align="center">
   <h2>My Things</h2>
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Rangki&layout=compact&theme=radical" alt="t101804" /></p>
